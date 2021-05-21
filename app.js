@@ -1,0 +1,6 @@
+// **********QUESTION 1**********
+
+// var firstName = prompt("Enter Your First Name Here")
+// var lastName = prompt("Enter Your Last Name Here")
+// var fullName = firstName + " " + lastName
+// var greetings = alert("Welcome!" + " " + fullName)
