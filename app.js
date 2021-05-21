@@ -15,6 +15,6 @@
 
 // **********QUESTION 3**********
 
-var string = "Pakistani"
-document.write("<h3>" + "String: " + string + "<h3>")
-document.write("<h3>" + "Index of 'n': " + string.indexOf("n") + "<h3/>")
+// var string = "Pakistani"
+// document.write("<h3>" + "String: " + string + "<h3>")
+// document.write("<h3>" + "Index of 'n': " + string.indexOf("n") + "<h3/>")
