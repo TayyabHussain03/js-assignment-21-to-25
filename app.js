@@ -11,3 +11,10 @@
 // var input = prompt("Ask me Your Favourite Mobile Name")
 // document.write("<h3>" + "My Favourite Phone is: " + input + "<h3>")
 // document.write("<h3>" + "Length of string: " + input.length + "<h3>")
+
+
+// **********QUESTION 3**********
+
+var string = "Pakistani"
+document.write("<h3>" + "String: " + string + "<h3>")
+document.write("<h3>" + "Index of 'n': " + string.indexOf("n") + "<h3/>")
