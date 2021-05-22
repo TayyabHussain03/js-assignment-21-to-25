@@ -63,3 +63,11 @@
 // var replace = message.replace(/and/g , "&")
 // document.write(replace)
 
+
+//**********QUESTION 10**********
+
+// var input = "peanuts"
+// var capitalize = input.toUpperCase()
+// document.write("<h3>" + "User Input: " + input + "<h3/>")
+// document.write("<h3>" + "Upper Case: " + capitalize + "<h3/>")
+
