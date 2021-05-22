@@ -33,3 +33,11 @@
 // document.write("<h3>" + "String: " + string + "<h3>")
 // document.write("<h3>" + "Character at index '3': " + string.charAt(3) + "<h3/>")
 
+
+// **********QUESTION 6**********
+
+// var firstName = prompt("Enter Your First Name Here")
+// var lastName = prompt("Enter Your Last Name Here")
+// var concat = firstName.concat(" " + lastName)
+// alert(concat)
+
