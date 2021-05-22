@@ -41,3 +41,18 @@
 // var concat = firstName.concat(" " + lastName)
 // alert(concat)
 
+
+// **********QUESTION 7**********
+
+// var name = "Hyderabad";
+// var oldName = "Hyder";
+// var newName = "Islam";
+
+// var index = name.indexOf(oldName);
+
+// if(index !== -1){
+//     name = name.slice(0,index) + newName + name.slice(index + oldName.length);
+//     document.write("<h3>" + "City: " + "Hyderabad" + "<h3/>")
+//     document.write("<h3>" + "After Replacement: " + name + "<h3/>")
+// }
+
