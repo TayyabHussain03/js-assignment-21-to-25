@@ -26,3 +26,10 @@
 // document.write("<h3>" + "String: " + string + "<h3>")
 // document.write("<h3>" + "Index of 'l': " + string.indexOf("l",5) + "<h3/>")
 
+
+// **********QUESTION 5**********
+
+// var string = "Pakistani"
+// document.write("<h3>" + "String: " + string + "<h3>")
+// document.write("<h3>" + "Character at index '3': " + string.charAt(3) + "<h3/>")
+
