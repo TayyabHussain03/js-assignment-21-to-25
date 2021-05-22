@@ -56,3 +56,10 @@
 //     document.write("<h3>" + "After Replacement: " + name + "<h3/>")
 // }
 
+
+// **********QUESTION 8**********
+
+// var message = "Ali and Sami are best friends. They play cricket and football together"
+// var replace = message.replace(/and/g , "&")
+// document.write(replace)
+
