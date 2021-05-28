@@ -71,3 +71,25 @@
 // document.write("<h3>" + "User Input: " + input + "<h3/>")
 // document.write("<h3>" + "Upper Case: " + capitalize + "<h3/>")
 
+
+// **********QUESTION 14**********
+
+// var items = ["cake", "apple pie", "cookies", "chips", "patties"];
+// var input = prompt("Enter Item Name Here");
+// input = input.toLowerCase()
+// flag = "no"
+// var itemCheck = items.indexOf(input)
+
+// for (var i = 0; i < items.length; i++) {
+//     if (itemCheck !== -1) {
+//         flag = "yes"
+//         break
+//     }
+// }
+
+// if (flag === "yes") {
+//     alert(input + " is available at index " + itemCheck + " in our bakery")
+// }
+// else {
+//     alert("Sorry " + input + " is not available in our bakery")
+// }
