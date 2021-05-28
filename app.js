@@ -72,6 +72,13 @@
 // document.write("<h3>" + "Upper Case: " + capitalize + "<h3/>")
 
 
+// **********QUESTION 9**********
+
+// var input = prompt("Enter Any Number Here")
+// var typeNumber = +input
+// console.log(typeNumber)
+
+
 // **********QUESTION 14**********
 
 // var items = ["cake", "apple pie", "cookies", "chips", "patties"];
